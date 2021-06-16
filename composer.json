@@ -1,5 +1,5 @@
 {
-    "name": "fof/mason",
+    "name": "flarum-extensions/mason",
     "description": "Add custom fields to discussions",
     "keywords": [
         "extension",
